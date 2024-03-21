@@ -1,4 +1,4 @@
-### Olá! eu sou o Eduardo 👋👋<br>
+### Olá! eu sou o Eduardo Ciconha 👋👋<br>
 <br>
 
 [![blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ciconhas-a-nalytic-date8.cms.webnode.page/)
