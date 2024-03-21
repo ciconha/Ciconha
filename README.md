@@ -4,7 +4,7 @@
 [![blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ciconhas-a-nalytic-date8.cms.webnode.page/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_ciconha/?hl=en)
 
-![Ciconha GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciconha&show_icons=true&theme=radical)
+![Ciconha GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciconha&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciconha&langs_count=8)
 
 
 
