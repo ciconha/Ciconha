@@ -29,3 +29,7 @@
 <div style = "dysplay : inline_block">  <br/>
 <img  align = center alt=c++  src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
 </div>
+<br>
+<div style = "dysplay : inline_block" >
+<img   aling = "rigth"  alt = "ciconha" width = 99px heigth = 99  src = "https://cdn.discordapp.com/attachments/717042849014743041/1220208317427879998/Design_sem_nome.gif?ex=660e1a8d&is=65fba58d&hm=8440fdf95d6378fd20c260599cab481d86c273f4cf1df19284b1912b1dd3def4&">  
+</div>
