@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá! eu sou o Eduardo 👋👋<br>
+<br>
 
-<!--
-**ciconha/Ciconha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ciconhas-a-nalytic-date8.cms.webnode.page/)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_ciconha/?hl=en)
 
-Here are some ideas to get you started:
+![Ciconha GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciconha&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Ferramentas que utilizo no meu dia
+
+<div style = "dysplay : inline_block">  <br/>
+<img  align = center alt=html5  src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
+</div>
+
+<div style = "dysplay : inline_block">  <br/>
+<img  align = center alt=css  src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
+</div>
+<div style = "dysplay : inline_block">  <br/>
+<img  align = center alt=java  src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
+</div>
+<div style = "dysplay : inline_block">  <br/>
+<img  align = center alt=php  src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
+</div>
+<div style = "dysplay : inline_block">  <br/>
+<img  align = center alt=mysql  src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+</div>
+<div style = "dysplay : inline_block">  <br/>
+<img  align = center alt=c++  src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
+</div>
