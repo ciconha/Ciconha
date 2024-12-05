@@ -31,5 +31,5 @@
 </div>
 <br>
 <div style = "dysplay : inline_block" >
-<img   aling = "rigth"  alt = "ciconha" width = 99px heigth = 99  src = "https://cdn.discordapp.com/attachments/717042849014743041/1220208317427879998/Design_sem_nome.gif?ex=660e1a8d&is=65fba58d&hm=8440fdf95d6378fd20c260599cab481d86c273f4cf1df19284b1912b1dd3def4&">  
+<img   aling = "rigth"  alt = "ciconha" width = 99px heigth = 99  src = "https://cdn.discordapp.com/attachments/717042849014743041/1220208317427879998/Design_sem_nome.gif?ex=6751c2cd&is=6750714d&hm=9c9dc7086d84ca41f37d79fb8636390ebbbf1cb81a69fa203bdbb6f46ff21eab&">  
 </div>
