@@ -41,5 +41,5 @@
 
 ![snake gif](https://github.com/Ciconha/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Ciconha_&repo=ciconha_&theme=ciconha)](https://github.com/ciconha/your_ciconha)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ciconha_&repo=ciconha_&theme=ciconha)](https://github.com/ciconha/your_ciconha)
 
