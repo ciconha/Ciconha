@@ -1,5 +1,5 @@
 # Nome da Actions:  
-name: Snake Game
+name: ciconha
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
@@ -17,10 +17,10 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: ciconha
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      - uses: ciconha
         id: snake-gif
         with:
           github_user_name: ciconha
@@ -30,8 +30,8 @@ jobs:
       - run: git status
 
       # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Push change
+        uses: ciconha
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
