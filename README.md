@@ -38,5 +38,5 @@
 <img   aling = "rigth"  alt = "ciconha" width = 99px heigth = 99  src = "https://cdn.discordapp.com/attachments/717042849014743041/1220208317427879998/Design_sem_nome.gif?ex=6751c2cd&is=6750714d&hm=9c9dc7086d84ca41f37d79fb8636390ebbbf1cb81a69fa203bdbb6f46ff21eab&">  
 </div>
 
-![snake gif](https://github.com/ciconha/ciconha/blob/output/github-contribution-grid-snake.svg)
+
 
