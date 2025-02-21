@@ -5,11 +5,12 @@
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_ciconha/?hl=en) 
 
 
-
-![Ciconha GitHub stats ](https://github-readme-stats.vercel.app/api?username=ciconha&show_icons=true&theme=radical)                   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciconha&langs_count=8)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ciconha" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciconha&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 ### Ferramentas que utilizo no meu dia
