@@ -6,7 +6,7 @@
 
 
 
-![Ciconha GitHub stats ](https://github-readme-stats.vercel.app/api?username=Ciconha&show_icons=true&theme=radical)                   
+![Ciconha GitHub stats ](https://github-readme-stats.vercel.app/api?username=ciconha&show_icons=true&theme=radical)                   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciconha&langs_count=8)
 
@@ -41,5 +41,5 @@
 
 ![snake gif](https://github.com/Ciconha/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Ciconha_&repo=Ciconha_&theme=Ciconha)](https://github.com/Ciconha/your_Ciconha)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Ciconha_&repo=ciconha_&theme=ciconha)](https://github.com/ciconha/your_ciconha)
 
