@@ -97,7 +97,7 @@
 </br>
 
  <h1 align="center">
-📊 Estatistica 
+📊 Estatística
  </h1>
 
  </br>
