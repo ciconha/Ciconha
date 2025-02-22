@@ -27,7 +27,7 @@
 
 <div>
 
-<div align=" right" style = "dysplay : inline_block ; margin-top:-350px "  >
+<div align=" left" style = "dysplay : inline_block ; margin-top:-350px "  >
 <img    alt = "ciconha"  width = "-250px"   src = "https://cdn.discordapp.com/attachments/717042849014743041/1342632687814574162/Detroid-Edu-Github.gif?ex=67ba57a1&is=67b90621&hm=043df5001a2a69eee79f9d2663718d8d204230027ef2bcc6912172eb9dade522&">  
 </div>
 
@@ -120,7 +120,7 @@
 
 ---
 
-<div align=" right" style = "dysplay : inline_block; margin-top: -30"  >
+<div align=" left" style = "dysplay : inline_block; margin-top: -30"  >
 <img    alt = "ciconha"  width = "300px"  heigth= "-700px"  src = "https://cdn.discordapp.com/attachments/717042849014743041/1342659899171279011/Edu-sono-computer.gif?ex=67ba70f9&is=67b91f79&hm=059e0f00ca8f7cb950a0d2627958565663893c2692b324e1ad16c484f1e3cc75&">  
 </div>
 
