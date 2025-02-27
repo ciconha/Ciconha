@@ -2,13 +2,14 @@
 <img   aling = "center"  alt = "ciconha" width = "980px"  heigth= "700px" src = "https://cdn.discordapp.com/attachments/717042849014743041/1342621121165393972/Eduardo-banner-github.gif?ex=67ba4cdb&is=67b8fb5b&hm=dad3d9aa571667d6a0979888a6e3633683e06ea1c6e9016219779eb281d5dd45&">  
 </div>
 
-<h1 align="center">
+<h1 align="center" >
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;Eu+sou+Eduardo+Ciconha!;" />
 </h1>
 
 ###
+
 </br>
-<h1>
+<h1 >
 🌠Sobre Mim
 </h1>
 
@@ -84,6 +85,18 @@
 </br>
 </br>
 
+### <h2 align="center">📓 estudando </h2>
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=spring,postgresql,next,flutter,androidstudio,figma," />
+    </br>
+   
+</div>
+
+#### <hr>
+</br>
+
 ### <h2 align="center">⚒️ Languages-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 
@@ -100,7 +113,7 @@
 
  <h1 align="center">
 📊 Estatística
- </h1>
+ <h1>
 
  </br>
  </br>
